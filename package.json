@@ -1,0 +1,19 @@
+{
+  "name": "platzi-scope-closure",
+  "version": "1.0.0",
+  "description": "curso de platzi, url: https://platzi.com/cursos/scope/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-javela/platzi-scope-closure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-javela/platzi-scope-closure/issues"
+  },
+  "homepage": "https://github.com/miguel-javela/platzi-scope-closure#readme"
+}
