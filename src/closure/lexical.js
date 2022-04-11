@@ -13,3 +13,4 @@ myCount();
 const myOtherCount = buildCount(10);
 myOtherCount();
 myOtherCount();
+//podemos crear diferentes lexicos para trabanar con su scope y ambito
